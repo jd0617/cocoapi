@@ -7,7 +7,7 @@ np.float was a deprecated alias for the builtin float. To avoid this error in ex
 
 
 # Installation
-The installation is similar the one mentioned in [SimpleBaseline](https://github.com/microsoft/human-pose-estimation.pytorch#installation). 
+The installation is similar to the one mentioned in [SimpleBaseline](https://github.com/microsoft/human-pose-estimation.pytorch#installation). 
 ```
 # COCOAPI=/path/to/clone/cocoapi
 git clone https://github.com/jd0617/cocoapi.git $COCOAPI
