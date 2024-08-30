@@ -18,3 +18,9 @@ make install
 # not to install the COCO API into global site-packages
 python3 setup.py install --user
 ```
+
+## Install using pip
+```
+cd $COCOAPI
+pip install PythonAPI
+```
